@@ -8,4 +8,4 @@ All of my projects are available at https://github.com/Akash-nitA?tab=repositori
 How to reach me akashacharjee212@gmail.com
 
 Connect with me:
-  https://www.linkedin.com/in/akash-acharjee-b07909205/
+  [LinkedIn]https://www.linkedin.com/in/akash-acharjee-b07909205/
