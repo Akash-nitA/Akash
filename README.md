@@ -1,5 +1,5 @@
 
-#Hi wave I'm Akash Acharjee.
+**Hi wave I'm Akash Acharjee.**
 
 I am a programmer who takes interest in almost every topic related to A.I and embedded systems
 
