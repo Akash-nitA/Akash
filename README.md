@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Akash Acharjee</h1>
 <h3 align="center">A programmer, interested in every bit of stuff related to A.I and embedded System</h3>
 
+- 🌱 I’m currently learning **Tensorflow,Machine Learning,Embedded Systems**
+
 - 👨‍💻 All of my projects are available at [https://github.com/Akash-nitA?tab=repositories](https://github.com/Akash-nitA?tab=repositories)
 
 - 📫 How to reach me **akashacharjee212@gmail.com**
