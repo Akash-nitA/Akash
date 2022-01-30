@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash Acharjee</h1>
 <h2 align="center">A programmer, interested in every bit of stuff related to A.I and embedded System</h2>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Akash-nitA?tab=repositories)
+- 👨‍💻 see my projects in [github](https://github.com/Akash-nitA?tab=repositories)
 
-- 📫 How to reach me **akashacharjee212@gmail.com**
+- 📫 Contact me **akashacharjee212@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
